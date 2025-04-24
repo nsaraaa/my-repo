@@ -23,7 +23,6 @@
 |--------|-------------|
 | **SQLi** | Extracts SQL injection payloads from vulnerable sites, mutates them, and tests them using a neural network and reinforcement learning for classification and reporting |
 | **XSS** | Generates unique XSS payloads using a transformer model and classifies them with a neural network |
-| **CSRF** | _(Under Development)_ Automatic detection and exploitation of Cross-Site Request Forgery vulnerabilities |
 | **MITM** | Network traffic interception with real-time analysis and packet inspection |
 | **DDoS** | Network stress testing simulation with configurable attack parameters |
 
@@ -45,22 +44,6 @@ pip install -r requirements.txt
 Download the GPT Transformer model:
 [Download GPT Transformer](https://www.dropbox.com/scl/fo/tiopa14tkt8yz5yy0jqel/AL5i1AZJdQoCRVac8HSPAIg?rlkey=axnxsre4l2te5iorz9bdiob03&st=qlezkcgi&dl=1)
 
-## Usage
-
-### Command Line Options
-
-```bash
-python main.py [-h] [--train] [--attack] [--target TARGET] [--cookie COOKIE] [--episodes EPISODES]
-```
-
-| Option | Description |
-|--------|-------------|
-| `-h, --help` | Show help message and exit |
-| `--train` | Train the detector model |
-| `--attack` | Run adaptive attacks |
-| `--target TARGET` | Specify the target URL for the attack |
-| `--cookie COOKIE` | Set cookie for authenticated requests |
-| `--episodes EPISODES` | Define the number of training episodes |
 
 ### Interactive Menu
 
