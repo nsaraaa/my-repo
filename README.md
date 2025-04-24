@@ -58,7 +58,10 @@ XploitStrike also features an intuitive tactical menu:
 
 <div align="center">
     <!-- Add your Data Flow Diagram image here -->
-    <img src="path/to/your/dataflow-diagram.png" alt="XploitStrike Data Flow Diagram" width="800">
+    <img src="https://github.com/user-attachments/assets/f714efb8-029e-4233-9fc7-7a9d35e47927" alt="XploitStrike Data Flow Diagram" width="800">
+
+
+    
 </div>
 
 ## ⚙️ System Requirements
