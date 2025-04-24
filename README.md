@@ -1,4 +1,4 @@
-# XploitStrike
+# 🛡️ XploitStrike
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c43e6ab2-5ff1-4589-9441-f7c24fce1bc7" alt="XploitStrike Logo" width="500">
@@ -9,18 +9,15 @@
     <em>Automated vulnerability detection and exploitation engine</em>
 </div>
 
-## Overview
+## 📋 Overview
 
 **XploitStrike** is a powerful command-line based automated penetration testing tool designed to identify and exploit vulnerabilities in web applications. The framework leverages advanced machine learning models, including neural networks and transformers, to automatically generate payloads, mutate them, and classify vulnerabilities with high accuracy.
 
 <div align="center">
-<img width="1440" alt="Screenshot 2025-04-24 at 10 36 04 PM" src="[https://github.com/user-attachments/assets/d9d6f9b6-72b6-4f18-946b-9f13f9d22b87](https://github.com/user-attachments/assets/bf837d78-3d74-40d5-9d4c-6a3534538cb6)" />
-
-
-    
+    <img src="https://github.com/user-attachments/assets/6af856b2-8a8a-4cf2-9f30-eb4cdbc76126" alt="XploitStrike Screenshot" width="650">
 </div>
 
-## Core Capabilities
+## ⚔️ Core Capabilities
 
 | Module | Description |
 |--------|-------------|
@@ -29,7 +26,7 @@
 | **MITM** | Network traffic interception with real-time analysis and packet inspection |
 | **DDoS** | Network stress testing simulation with configurable attack parameters |
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Installation
 
@@ -47,7 +44,6 @@ pip install -r requirements.txt
 Download the GPT Transformer model:
 [Download GPT Transformer](https://www.dropbox.com/scl/fo/tiopa14tkt8yz5yy0jqel/AL5i1AZJdQoCRVac8HSPAIg?rlkey=axnxsre4l2te5iorz9bdiob03&st=qlezkcgi&dl=1)
 
-
 ### Interactive Menu
 
 XploitStrike also features an intuitive tactical menu:
@@ -58,13 +54,20 @@ XploitStrike also features an intuitive tactical menu:
 4. **MITM Attack** - Network traffic interception
 5. **EXIT** - Terminate session
 
-## System Requirements
+## 📊 Data Flow Diagram
+
+<div align="center">
+    <!-- Add your Data Flow Diagram image here -->
+    <img src="path/to/your/dataflow-diagram.png" alt="XploitStrike Data Flow Diagram" width="800">
+</div>
+
+## ⚙️ System Requirements
 
 - Python 3.8+
 - Administrator privileges (required for certain network operations)
 - Network access permissions
 
-## Architecture
+## 🛠️ Architecture
 
 XploitStrike implements an advanced architecture with several key components:
 
@@ -74,10 +77,10 @@ XploitStrike implements an advanced architecture with several key components:
 - **Signal Handling**: Graceful termination and cleanup of attack processes
 - **Privilege Management**: Automatic elevation of privileges when required
 
-## License
+## 📜 License
 
 MIT License
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This tool is developed for educational and security testing purposes only. Use responsibly and only against systems you have permission to test.
