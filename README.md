@@ -14,7 +14,10 @@
 **XploitStrike** is a powerful command-line based automated penetration testing tool designed to identify and exploit vulnerabilities in web applications. The framework leverages advanced machine learning models, including neural networks and transformers, to automatically generate payloads, mutate them, and classify vulnerabilities with high accuracy.
 
 <div align="center">
-<img width="1440" alt="Screenshot 2025-04-24 at 10 36 04 PM" src="https://github.com/user-attachments/assets/d9d6f9b6-72b6-4f18-946b-9f13f9d22b87" />
+<img width="1440" alt="Screenshot 2025-04-24 at 10 36 04 PM" src="[https://github.com/user-attachments/assets/d9d6f9b6-72b6-4f18-946b-9f13f9d22b87](https://github.com/user-attachments/assets/bf837d78-3d74-40d5-9d4c-6a3534538cb6)" />
+
+
+    
 </div>
 
 ## Core Capabilities
