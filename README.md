@@ -1,4 +1,4 @@
-# 🛡️ XploitStrike
+#XploitStrike
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c43e6ab2-5ff1-4589-9441-f7c24fce1bc7" alt="XploitStrike Logo" width="500">
@@ -9,7 +9,7 @@
     <em>Automated vulnerability detection and exploitation engine</em>
 </div>
 
-## 📋 Overview
+##Overview
 
 **XploitStrike** is a powerful command-line based automated penetration testing tool designed to identify and exploit vulnerabilities in web applications. The framework leverages advanced machine learning models, including neural networks and transformers, to automatically generate payloads, mutate them, and classify vulnerabilities with high accuracy.
 
@@ -17,7 +17,7 @@
     <img src="https://github.com/user-attachments/assets/6af856b2-8a8a-4cf2-9f30-eb4cdbc76126" alt="XploitStrike Screenshot" width="650">
 </div>
 
-## ⚔️ Core Capabilities
+##Core Capabilities
 
 | Module | Description |
 |--------|-------------|
@@ -26,7 +26,7 @@
 | **MITM** | Network traffic interception with real-time analysis and packet inspection |
 | **DDoS** | Network stress testing simulation with configurable attack parameters |
 
-## 🚀 Quick Start
+##Quick Start
 
 ### Installation
 
@@ -54,23 +54,24 @@ XploitStrike also features an intuitive tactical menu:
 4. **MITM Attack** - Network traffic interception
 5. **EXIT** - Terminate session
 
-## 📊 Data Flow Diagram
+##Data Flow Diagram
 
 <div align="center">
     <!-- Add your Data Flow Diagram image here -->
-    <img src="https://github.com/user-attachments/assets/f714efb8-029e-4233-9fc7-7a9d35e47927" alt="XploitStrike Data Flow Diagram" width="800">
+    <img src="https://github.com/user-attachments/assets/3cbc994b-abbf-4df6-9bfd-01b8ffc6756a" alt="XploitStrike Data Flow Diagram" width="800">
+
 
 
     
 </div>
 
-## ⚙️ System Requirements
+##System Requirements
 
 - Python 3.8+
 - Administrator privileges (required for certain network operations)
 - Network access permissions
 
-## 🛠️ Architecture
+##Architecture
 
 XploitStrike implements an advanced architecture with several key components:
 
@@ -80,10 +81,10 @@ XploitStrike implements an advanced architecture with several key components:
 - **Signal Handling**: Graceful termination and cleanup of attack processes
 - **Privilege Management**: Automatic elevation of privileges when required
 
-## 📜 License
+##License
 
 MIT License
 
-## ⚠️ Disclaimer
+##Disclaimer
 
 This tool is developed for educational and security testing purposes only. Use responsibly and only against systems you have permission to test.
